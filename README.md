@@ -5,3 +5,6 @@
 		"Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
 		Geneva, "Helvetica Neue", Helvetica, Arial, sans serif;
 	background-color: #333;
+		"Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
+		Geneva, "Helvetica Neue", Helvetica, Arial, sans serif;
+	background-color: #333;
