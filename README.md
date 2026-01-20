@@ -7,7 +7,16 @@
 		yriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
 						f;	display: block;	width: 190px;
 	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", 
+		"Myri				f;	display: block;
+	width: 190px;
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", 
+		"Myriad Pro", M
+		yriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
+						f;	display: block;	width: 190px;
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", 
 		"Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
+				f;	display: block;				f;	display: block;
+				ad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
 				f;	display: block;				f;	display: block;
 				
 	width: 190px;
