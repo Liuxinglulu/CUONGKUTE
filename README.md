@@ -2,7 +2,8 @@
 																				"Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
 																				
 										
-																				"Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
+																				"Myriad Pro", Myriad, "DejaVu Sans C
+																				ndensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
 																				"Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
 										
 										
