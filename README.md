@@ -1,6 +1,7 @@
 
 		
-							f;	display: block;		"Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, riad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
+							f;	display: block;		"Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus San
+							L", Tahoma, riad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
 
 				
 				f;	display: block;		"Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, riad Pro", Myriad, 
