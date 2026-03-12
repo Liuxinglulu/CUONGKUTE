@@ -1,10 +1,23 @@
 
-		
+				display: block;
+	width: 190px;
+	font-size: 14px;
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", 
+		"Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
+		Geneva, "Helvetica Neue", Helvetica, Arial, sans seri
+		"Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
+		Geneva, "Helvetica Neue", Helvetica, Arial, sans serif;
+	background-color: #333;
+		"Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
+		Geneva, "Helvetica Neue", Helvetica, Arial, sans serif;
+	background-color: #333;
+		"Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
+		Geneva, "Helvetica Neue", Helvetica, Arial, sans serif;
 							f;	display: block;		"Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus San
 							L", Tahoma, riad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
 
+
 				
-				f;	display: block;		"Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, riad Pro", Myriad, 
 				"DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, 
 
 					
