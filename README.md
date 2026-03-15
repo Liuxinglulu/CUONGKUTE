@@ -5,6 +5,7 @@
 		Geneva, "Helvetica Neue", Helvetica, Arial, sans seri
 			width: 190px;	width: 190px;
 	font-size: 14px;
+	
 	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", 
 		width: 190px;	width: 190px;
 	font-size: 14px;
