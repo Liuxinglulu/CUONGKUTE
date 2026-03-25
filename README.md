@@ -6,6 +6,7 @@
 			width: 190px;	width: 190px;
 				width: 190px;	width: 190px;\
 				width: 190px;	width: 190px;
+				
 	font-size: 14px;	width: 190px;	width: 190px;
 		width: 190px;	width: 190px;
 	font-size: 14px;
