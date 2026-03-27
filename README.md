@@ -6,6 +6,7 @@
 		Geneva, "Helvetica Neue", Helvetica, Arial, sans seri
 		
 			width: 190px;	width: 190px;
+			
 				width: 190px;	width: 190px;\
 				
 					width: 190px;	width: 190px;
