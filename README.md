@@ -7,6 +7,7 @@
 		
 			width: 190px;	width: 190px;
 
+
 			
 	font-size: 14px;
 	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", 
