@@ -1,4 +1,23 @@
-	width: 190px;	width: 190px;
+	Roles & Bags (Points) – Quick Guide:
+Bags = points you earn from contributing to the Concrete community. More value = bigger bags.
+Discord role-based points:
+Level 5 Newbie: +50
+Level 10 Vault Navigator: +150
+Level 17 Lucky 17: +250
+Level 25 Grindooor: +1000
+Join Discord: +50 points.
+Want a KEY? (Required): don’t just chat in #general — help newcomers in the right channels, make high-quality memes, and post X threads/recaps/guides.
+Moai (Elite role): assigned by the team at season end; use the Concrete DeFi server tag to be considered.
+
+Bags are the points you earn by contributing to the Concrete community. The more value you bring, the bigger your bag.
+Discord role point rewards:
+Level 5 — Newbie: +50
+Level 10 — Vault Navigator: +150
+Level 17 — Lucky 17: +250
+Level 25 — Grindooor: +1000
+Joining Discord: +50 points.
+Want a KEY? (Required): Don’t just hang out in #general. Support newcomers in the right channels, create high-quality memes, and share X threads/recaps/guides.
+Moai (Elite role): Assigned by the team at the end of the season. Use the Concrete DeFi server tag to be considered.width: 190px;	width: 190px;
 	font-size: 14px;
 	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", 
 		"Myriad Pr	width: 190px;	width: 190px;
