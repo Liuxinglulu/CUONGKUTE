@@ -6,6 +6,7 @@ Level 10 Vault Navigator: +150
 Level 17 Lucky 17: +250
 Level 25 Grindooor: +1000
 
+
 Join Discord: +50 points.
 Want a KEY? (Required): don’t just chat in #general — help newcomers in the right channels, make high-quality memes, and post X threads/recaps/guides.
 Moai (Elite role): assigned by the team at season end; use the Concrete DeFi server tag to be considered.
