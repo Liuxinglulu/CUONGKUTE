@@ -4,6 +4,7 @@ Discord role-based points:
 Level 5 Newbie: +50
 Level 10 Vault Navigator: +150
 Level 17 Lucky 17: +250
+
 	Roles & Bags (Points) – Quick Guide:
 	
 	
