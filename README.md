@@ -7,6 +7,7 @@ Bags = points you earn from contributing to the Concrete community. More value =
 	Roles & Bags (Points) – Quick Guide:
 	
 Bags = points you earn from contributing to the Concrete community. More value = bigger bags.
+
 Discord role-based points:
 
 	Roles & Bags (Points) – Quick Guide:
