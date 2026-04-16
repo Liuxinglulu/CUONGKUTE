@@ -29,7 +29,8 @@ Discord role-based points:
 Discord role-based points:
 
 Level 5 Newbie: +50
-	Roles & Bags (Points) – Quick Guide:	Roles & Bags (Points) – Quick Guide:
+	Roles & Bags (Points) – Quick Guide:	Roles & Bags (Points
+	) – Quick Guide:
 	
 		Roles & Bags (Points) – Quick Guide:
 Bags = points you earn from contributing to the Concrete community. More value = bigger bags.
