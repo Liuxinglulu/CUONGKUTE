@@ -20,6 +20,7 @@ Level 5 Newbie: +50
 
 	Roles & Bags (Points) – Quick Guide:
 	Roles &	Roles & Bags (Points) – Quick Guide:
+
 	
 	Bags = points you earn from contributing to the Concrete community. More value = bigger bags.
 	
