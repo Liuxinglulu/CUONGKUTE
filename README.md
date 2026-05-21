@@ -17,6 +17,7 @@ Bags = points you earn from contributing to the Concrete community. More value =
 Discord role-based points:
 
 
+
 Level 5 Newbie: +50
 
 
